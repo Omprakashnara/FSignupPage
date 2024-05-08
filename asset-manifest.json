@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FSignupPage/static/css/main.ecf18914.css",
+    "main.js": "/FSignupPage/static/js/main.44c00d42.js",
+    "index.html": "/FSignupPage/index.html",
+    "main.ecf18914.css.map": "/FSignupPage/static/css/main.ecf18914.css.map",
+    "main.44c00d42.js.map": "/FSignupPage/static/js/main.44c00d42.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ecf18914.css",
+    "static/js/main.44c00d42.js"
+  ]
+}
